@@ -1,0 +1,11 @@
+
+
+
+    Teste de Remoção de Tags
+
+
+    Olá, Mundo!
+    Este é um exemplo de um arquivo HTML.
+    Vamos remover as tags deste arquivo.
+
+
